@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Smart QR Code Scanner</string>
+    <string name="Title">QR Code Scanner</string>
+    <string name="Dev">Developed By Fahim Rayhan</string>
+    <string name="info">Please give access your Camera so that we can scan and provide you what is inside the code</string>
+    <string name="bt1">Let\'s Get Started</string>
+    <string name="info2">Place QR Code inside the frame to scan. Please avoid shake to get result quickly.</string>
+    <string name="scan">Scan Now</string>
+</resources>
